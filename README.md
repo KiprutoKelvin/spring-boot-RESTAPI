@@ -95,8 +95,8 @@ The application uses PostgreSQL running in a Docker container:
 - **Host**: localhost
 - **Port**: 5412 (mapped from container port 5432)
 - **Database**: postgres
-- **Username**: my_username
-- **Password**: my_password
+- **Username**: my_username🧐
+- **Password**: my_password🙈🔐
 
 Database tables are automatically created using JPA annotations and Hibernate DDL auto-generation.
 
